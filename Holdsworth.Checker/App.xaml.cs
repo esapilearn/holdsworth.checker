@@ -14,7 +14,7 @@ using System.Windows.Controls;
 
 namespace Holdsworth.Checker
 {
-    /// <summary>
+    /// <summary>Test
     /// Interaction logic for App.xaml
     /// </summary>
     public partial class App
